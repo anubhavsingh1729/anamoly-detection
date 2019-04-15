@@ -1,0 +1,18 @@
+Folder contains the dataset files and python script file named "prct.py"
+
+libraries needed:
+->pandas
+->matplotlib.pyplot
+->numpy
+->seaborn
+
+to execute the file run command on terminal : python3 prct.py
+
+the dataset files must be in the same folder as the script file.
+
+output:
+
+the result of execution is printed on terminal as:
+
+anomalies : number of anomalies detected
+
